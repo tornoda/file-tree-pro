@@ -1,0 +1,16 @@
+{
+  "name": "file-tree-pro",
+  "version": "1.0.0",
+  "description": "node file tree",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node file tree",
+    "file-tree",
+    "file tree"
+  ],
+  "author": "looyulong",
+  "license": "ISC"
+}
